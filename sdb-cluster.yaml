@@ -3,7 +3,7 @@ kind: MemsqlCluster
 metadata:
   name: sdb-cluster
 spec:
-  license: BDIwNTY2MzczYmQ3ZTQ0OTBhNzgzYjEzYzI2ZjFlMWYwAAAAAAAAAAAAAAAAAAAAAAMwNQIYRaxfeh15wzJd+mHRW78Xv6PGnh1vlSnSAhkAk/Fw+QJCKDeEhFb5ed7DvMhGvijPZrHFAA==
+  license: sadfsghjklkjhgfdrtytW78Xv6PGnh1vlSnSAhkAk/Fw+QJCKDeEhFb5ed7DvMhGvijPZrHFAA==
   adminHashedPassword: "*EC6DAFA0D70237534AA2C5162C3F84AE7C0AF00E"
   nodeImage:
     repository: singlestore/node
